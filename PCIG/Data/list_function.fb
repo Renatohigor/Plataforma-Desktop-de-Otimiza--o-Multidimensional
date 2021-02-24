@@ -1,0 +1,5 @@
+2,inf|-600,600|Esfera|Função|x;suma{x**2,x,2}
+2,inf|-35.7,35.7|Ackley|Função|x;-20*exp(-0.2*sqrt(suma{x**2,x,2 }*0.2)-exp(suma{cos(6.28318530718*x),x,2}*0.5))+20+exp(1.0)
+2,inf|-30,30|Rosenbrock|Função|x;suma{100*(x1-x**2)**2+(1-x)**2,x,1}
+2,inf|-5.12,5.12|Rastrigi|Função|x;suma{-10*cos(2*3.14159265359*x)+x**2,x,2}+20
+2,inf|-5,10|Zakharov|Função|x;suma{x**2,x,2}+(suma{0.5*x,x,2})**2+(suma{0.5*x,x,2})**4

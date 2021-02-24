@@ -1,0 +1,15 @@
+sympy
+numpy
+matplotlib
+PyQt5
+PyQt5-sip
+cycler
+kiwisolver
+mpmath
+numpy
+pip
+pyparsing
+python-dateutil
+setuptools
+six
+sympy
